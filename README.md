@@ -36,7 +36,7 @@ Não pretendo ser DEV, mas estou apredendo sobre o mundo de DEV, para agregar co
 #### 💭 Redes Sociais:
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) _igorsamuel </div>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igorsamuel2/)
-
+![tryhackme stats](https://raw.githubusercontent.com/igor.samuel2/igor.samuel2/main/assets/thm_propic.png)
 
 
 #### <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30" style="vertical-align: middle;"> Minhas estatísticas do GitHub: 
